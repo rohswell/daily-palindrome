@@ -13,3 +13,5 @@ Instead of downloading and editing widget.html, just copy the code below.
 Here's how the widget looks on a web page.
 
 ![Daily Palindrome sample](https://github.com/rohswell/daily-palindrome/blob/main/wp-block-html-preview.png?raw=true)
+
+Visit [Franklin's Palindromedary](https://palindromedary.us/home) to learn more about palindrome composition tools and how to submit original palindromes for publication in our palindrome collection ebooks. We pay forty percent of all ebook sales to palindrome authors, prorated by palindrome word count.
