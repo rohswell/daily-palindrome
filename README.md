@@ -9,3 +9,7 @@ Instead of downloading and editing widget.html, just copy the code below.
 
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://palindromedary.us/js/potd.js" id="potd-pal-widget"></script>
+
+Here's how the widget looks on a web page.
+
+![Daily Palindrome sample](https://github.com/rohswell/daily-palindrome/blob/main/wp-block-html-preview.png?raw=true)
